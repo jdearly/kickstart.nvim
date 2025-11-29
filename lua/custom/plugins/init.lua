@@ -3,8 +3,6 @@
 --
 -- See the kickstart.nvim README for more information
 return {
-  -- Go support
-  'fatih/vim-go',
-  -- bropilot
-  'github/copilot.vim',
+	-- Go support
+	'fatih/vim-go',
 }
